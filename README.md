@@ -19,7 +19,7 @@ https://imityaz0459.github.io/JavaScript/<project-folder-name>/
 
 > Add a new row here every time you push a new project.
 
-## 🗂️ Folder Structure
+## 🗂️ Folder Structure.
 
 ```
 JavaScript/
