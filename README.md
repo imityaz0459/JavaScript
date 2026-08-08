@@ -1,4 +1,4 @@
-# JavaScript Projects
+# JavaScript Projects.
 
 A collection of small JavaScript projects built while learning core JS fundamentals — variables, conditionals, loops, functions, and DOM manipulation.
 
