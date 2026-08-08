@@ -43,7 +43,7 @@ Every project folder follows the same pattern so it's easy to navigate:
 - `style.css` — (optional) styling, only where used
 - `README.md` — (optional) short notes: what it is, what you learned
 
-## 📌 About
+## 📌 About.
 
 This repo is a running log of small JavaScript practice projects built while learning core concepts — conditionals, loops, functions, and later, DOM manipulation. Bigger or more polished projects may eventually be moved to their own dedicated repos.
 
