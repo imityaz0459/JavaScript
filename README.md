@@ -10,7 +10,7 @@ Once GitHub Pages is enabled for this repo, every project will be viewable direc
 https://imityaz0459.github.io/JavaScript/<project-folder-name>/
 ```
 
-## 📁 Projects
+## 📁 Projects.
 
 | # | Project | Description | Tech | Live Demo |
 |---|---------|-------------|------|-----------|
