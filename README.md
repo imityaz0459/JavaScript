@@ -24,14 +24,16 @@ https://imityaz0459.github.io/JavaScript/<project-folder-name>/
 ```
 JavaScript/
 ├── README.md
-├── atm-pin-verification/
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-└── student-pass-or-fail/
-    ├── index.html
-    ├── script.js
-    └── style.css
+├── JS Fundamentals/
+    ├── atm-pin-verification/
+           ├── index.html
+           ├── script.js
+           └── style.css
+    └── student-pass-or-fail/
+        ├── index.html
+        ├── script.js
+        └── style.css
+
 ```
 
 ## 🛠️ How Each Project Is Organized.
@@ -41,7 +43,7 @@ Every project folder follows the same pattern so it's easy to navigate:
 - `index.html` — entry point of the project
 - `script.js` — the JavaScript logic
 - `style.css` — (optional) styling, only where used
-- `README.md` — (optional) short notes: what it is, what you learned
+
 
 ## 📌 About.
 
