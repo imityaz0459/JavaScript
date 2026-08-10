@@ -29,7 +29,7 @@ if (!access){
         case "2":
             let depositAmount = Number(prompt("Enter amount to deposit:"));
 
-            if (isNaN(depositAmount) || depositAmount <= 0){
+            if(isNaN(depositAmount) || depositAmount <= 0){
                 alert("Invalid amount. Deposit cancelled.");
             }else{Balance = Balance + depositAmount;
             alert("Deposit succesful. New balance: $" + Balance)
