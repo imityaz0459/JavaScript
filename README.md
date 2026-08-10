@@ -40,7 +40,7 @@ JavaScript/
 
 Every project folder follows the same pattern so it's easy to navigate:
 
-- `index.html` — entry point of the project
+- `index.html` — entry point of the project.
 - `script.js` — the JavaScript logic.
 - `style.css` — (optional) styling, only where used.
 
