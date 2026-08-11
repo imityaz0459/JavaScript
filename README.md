@@ -5,7 +5,7 @@ A collection of small JavaScript projects built while learning core JS fundament
 Once GitHub Pages is enabled for this repo, every project will be viewable directly in the browser at:
 
 ```
-https://imtiyaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>/
+https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>/
 ```
 
 ## 📁 Projects.
