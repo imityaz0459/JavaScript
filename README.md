@@ -1,9 +1,7 @@
 # JavaScript Projects.
-
 A collection of small JavaScript projects built while learning core JS fundamentals — variables, conditionals, loops, functions, and DOM manipulation.
 
 ## 🔗 Live Demos.
-
 Once GitHub Pages is enabled for this repo, every project will be viewable directly in the browser at:
 
 ```
