@@ -18,20 +18,20 @@ https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>
 
 ## 🗂️ Folder Structure.
 
-## 🗂️ Folder Structure.
+
 
 ```
 JavaScript/
 ├── README.md
-├── JS Fundamentals/
-    ├── atm-pin-verification/
-           ├── index.html
-           ├── script.js
-           └── style.css
-    └── student-pass-or-fail/
-        ├── index.html
-        ├── script.js
-        └── style.css
+└── JS Fundamentals/
+├── ATM-Simulator/
+│ ├── index.html
+│ ├── script.js
+│ └── style.css
+└── Student-Result-System/
+├── index.html
+├── script.js
+└── style.css
 
 ```
 
