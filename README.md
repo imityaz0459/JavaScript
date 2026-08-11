@@ -34,20 +34,14 @@ JavaScript/
 └── style.css
 
 ```
-
 ## 🛠️ How Each Project Is Organized.
-
 Every project folder follows the same pattern so it's easy to navigate:
-
 - `index.html` — entry point of the project.
 - `script.js` — the JavaScript logic.
 - `style.css` — (optional) styling, only where used.
 
-
 ## 📌 About.
-
 This repo is a running log of small JavaScript practice projects built while learning core concepts — conditionals, loops, functions, and later, DOM manipulation. Bigger or more polished projects may eventually be moved to their own dedicated repos.
 
 ## 📫 Connect.
-
 - GitHub: [imityaz0459](https://github.com/imityaz0459)
