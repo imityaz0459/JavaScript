@@ -9,13 +9,14 @@ https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>
 ```
 
 ## 📁 Projects.
-
 | # | Project | Description | Tech | Live Demo |
 |---|---------|-------------|------|-----------|
-| 1 | [ATM PIN Verification](./atm-pin-verification) | Prompts for name and PIN, checks it against a stored value, and handles cancelled/empty input cases | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/"JS Fundamentals"./atm-pin-verification/) |
-| 2 | [Student Pass or Fail](./student-pass-or-fail) | Prompts for a student's name and marks, then shows a pass/fail result with checks for outstanding scores and invalid input | HTML, CSS, JS | [View](https://imtiyaz0459.github.io/JavaScript/JS%20Fundamentals/Student-Result-System/) |
+| 1 | [ATM PIN Verification](./JS%20Fundamentals/ATM-Simulator) | Prompts for name and PIN, checks it against a stored value, and handles cancelled/empty input cases | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/ATM-Simulator/) |
+| 2 | [Student Pass or Fail](./JS%20Fundamentals/Student-Result-System) | Prompts for a student's name and marks, then shows a pass/fail result with checks for outstanding scores and invalid input | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/Student-Result-System/) |
 
 > Add a new row here every time you push a new project.
+
+## 🗂️ Folder Structure.
 
 ## 🗂️ Folder Structure.
 
