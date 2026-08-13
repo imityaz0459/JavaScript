@@ -18,12 +18,20 @@ while(attempts < 3){
 if (!access){
     alert("Card Blocked");
 }else{
-    let choice = prompt("ATM Menu:\n1. Check Balance\n2. Deposit\n3. Withdraw\n4. Exit");
 
+    let isRunning = true;
+    let transactionCount = 0;
+
+    while (isRunning){
+        
+         let choice = prompt("ATM Menu:\n1. Check Balance\n2. Deposit\n3. Withdraw\n4. Exit");
+
+  
 
     switch (choice){
         case "1":
             alert("Your Balance is:- $" + Balance);
+            transactionCount ++;
             break;
 
         case "2":
@@ -33,6 +41,7 @@ if (!access){
                 alert("Invalid amount. Deposit cancelled.");
             }else{Balance = Balance + depositAmount;
             alert("Deposit succesful. New balance: $" + Balance)
+            transactionCount ++;
             }
             break;
 
@@ -45,16 +54,22 @@ if (!access){
             }else{
                 Balance = Balance - withdrawAmount;
                 alert("Withdrawal successful. New balance: $" + Balance);
+                transactionCount ++;
             }
             
             break;
 
         case "4":
-            alert("Goodbye");
+            alert("You made " + transactionCount+ " transaction(s). Goodbye");
+            isRunning = false;
             break;
 
         default:
-            alert("Invalid choice");
+            alert("Invalid choice"); 
+
+              }
+        }
     }
-}
+
+   
 
