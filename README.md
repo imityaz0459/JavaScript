@@ -23,12 +23,11 @@ https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>
 ```
 JavaScript/
 ├── README.md
-└── JS Fundamentals/
-    ├── ATM-Simulator/
+├── ATM-Simulator/
        ├── index.html
        ├── script.js
        └── style.css
-    └── Student-Result-System/
+└── Student-Result-System/
       ├── index.html
       ├── script.js
       └── style.css
