@@ -11,8 +11,8 @@ https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/<project-folder-name>
 ## 📁 Projects.
 | # | Project | Description | Tech | Live Demo |
 |---|---------|-------------|------|-----------|
-| 1 | [ATM PIN Verification](./JS%20Fundamentals/ATM-Simulator) | Prompts for name and PIN, checks it against a stored value, and handles cancelled/empty input cases | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/ATM-Simulator/) |
-| 2 | [Student Pass or Fail](./JS%20Fundamentals/Student-Result-System) | Prompts for a student's name and marks, then shows a pass/fail result with checks for outstanding scores and invalid input | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/JS%20Fundamentals/Student-Result-System/) |
+| 1 | [ATM PIN Verification](/ATM-Simulator) | Prompts for name and PIN, checks it against a stored value, and handles cancelled/empty input cases | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/ATM-Simulator/) |
+| 2 | [Student Pass or Fail](/Student-Result-System) | Prompts for a student's name and marks, then shows a pass/fail result with checks for outstanding scores and invalid input | HTML, CSS, JS | [View](https://imityaz0459.github.io/JavaScript/Student-Result-System/) |
 
 > Add a new row here every time you push a new project.
 
