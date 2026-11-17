@@ -25,6 +25,12 @@ if(studentMarks  >= 33 && studentMarks <= 50 ){
 	grade = "A";
 }
 
+
+let isRunning = true;
+
+while (isRunning){
+
+	
 let menu = prompt("Menu\n 1. View Grade\n 2. View Pass/Fail Status\n 3. View Remarks\n 4. Exit");
 
 switch(menu){
@@ -49,9 +55,12 @@ switch(menu){
 
 	case "4":
 		alert("Goodbye");
+		isRunning = false;
 		break;
 
 	default:
 		alert("Invalid choice");
-}
+			}
+		}
+
 }
